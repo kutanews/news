@@ -1827,25 +1827,25 @@
 														<span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 														<img alt="LazMall" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1gNcMWBr0gK0jSZFnXXbRRXXa.png">
 														</span>
-														<span class="lzd-menu-labels-item-text">JPMANIA</span>
+														<span class="lzd-menu-labels-item-text">JUARATOGEL</span>
 														</a>
 														<a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/i/id/digitalgoods/home?hybrid=1&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207798_7692459">
 														<span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
-														<img alt="JPMANIA &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
+														<img alt="JUARATOGEL &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
 														</span>
-														<span class="lzd-menu-labels-item-text">DEPOSIT JPMANIA</span>
+														<span class="lzd-menu-labels-item-text">DEPOSIT JUARATOGEL</span>
 														</a>
 														<a class="lzd-menu-labels-item" href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/all-promo/mcp-ush&amp;scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207802_7692459&amp;prefetch_replace=1">
 														<span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 														<img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
 														</span>
-														<span class="lzd-menu-labels-item-text">BONUS JPMANIA</span>
+														<span class="lzd-menu-labels-item-text">BONUS JUARATOGEL</span>
 														</a>
 														<a class="lzd-menu-labels-item" href="//www.lazada.co.id/blog/?scm=1003.4.icms-zebra-5000383-2586266.OTHER_6502207806_7692459">
 														<span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
 														<img alt="LazBlog" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
 														</span>
-														<span class="lzd-menu-labels-item-text">RTP JPMANIA</span>
+														<span class="lzd-menu-labels-item-text">RTP JUARATOGEL</span>
 														</a>
 													</nav>
 												</div>
@@ -3242,7 +3242,7 @@
 										<span class="pdp-product-brand__name">
 											Merek<!-- -->:<!-- --> 
 										</span>
-										<a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://aloli.ru/">Jpmania</a>
+										<a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://aloli.ru/">JUARATOGEL</a>
 										<div class="pdp-product-brand__divider"></div>
 									</div>
 								</div>
